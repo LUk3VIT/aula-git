@@ -12,6 +12,7 @@ criando um repositório do git para o git hub
 
 no site do GitHub cria um repositor sem o Readme em HTTPS, copia o git remote e cola no git dash
 
+
 git remote :mostra se esta vinculado com o git hub 
 
  linha 5
