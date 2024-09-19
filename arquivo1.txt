@@ -1,2 +1,15 @@
-linha 1daw
-linha 2
+criando um repositório do git para o git hub
+
+1. pwd :ser vê para ver o caminho que se encontra o git dash
+
+2. cd /c :diz o caminho em que esta cd é para entrar no código, o que vem na frente tem que ser o caminho para a pasta que deseja
+
+3. mkdir :cria um pasta, o que vem na frente dele é o nome da pasta 
+
+4. git init :inicia um repositório dentro da pasta
+
+5. git checkout -b main :cria uma nova branch o "main" é o nome da branch 
+
+no site do GitHub cria um repositor sem o Readme em HTTPS, copia o git remote e cola no git dash
+
+ git remote :mostra se esta vinculado com o git hub 
