@@ -11,8 +11,12 @@ criando um repositório do git para o git hub
 5. git checkout -b main :cria uma nova branch o "main" é o nome da branch 
 
 no site do GitHub cria um repositor sem o Readme em HTTPS, copia o git remote e cola no git dash
-git remote :mostra se esta vinculado com o git hub 
 
-luna3
+6. git remote :mostra se esta vinculado com o git hub 
 
- linha 5
+7. git branch :server para ver qual a branch estamos e quais tem
+
+8. git fetch :pesquisar o que faz
+
+9. git pull origin main :puxa o que tem no github e atualiza o seu arquivo
+
